@@ -35,3 +35,5 @@ Note: This section is for stages 2 and beyond.
    `app/server.go`.
 1. Commit your changes and run `git push origin master` to submit your solution
    to CodeCrafters. Test output will be streamed to your terminal.
+
+### This is the link to the living document that notes all my learnings [https://docs.google.com/document/d/e/2PACX-1vQ1YPgF4USEzwpNoJg405CPLC_f7r5wCmrg8BwlsiX20c_UFmxrsNsLRwcuubGY_nYNYJmgOI990OQi/pub](link)
